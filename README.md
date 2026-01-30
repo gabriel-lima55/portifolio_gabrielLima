@@ -1,2 +1,2 @@
-# Portifolio_GabrielLima
-Portifólio demonstrativo de projetos , habilidades de programação, TI e engenharia no geral.
+# Portifólio Gabriel Lima
+Portifólio habilidades e experiências de Gabriel Lima
