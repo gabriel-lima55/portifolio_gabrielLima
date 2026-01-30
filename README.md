@@ -1,2 +1,2 @@
-# Portifólio Gabriel Lima
-Portifólio habilidades e experiências de Gabriel Lima
+# Portifólio de Gabriel Lima
+Habilidades e experiências de Gabriel Lima
