@@ -34,7 +34,7 @@ export default function App() {
 
         <div className="flex gap-4">
           <a
-            href="https://github.com/SEU_USUARIO"
+            href="https://github.com/gabriel-lima55"
             target="_blank"
             className="px-4 py-2 rounded-xl bg-black text-white"
           >
