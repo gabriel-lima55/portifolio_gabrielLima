@@ -1,4 +1,3 @@
-# Portifólio de Gabriel Lima
 # Portfólio – Gabriel Lima
 
 Portfólio pessoal em desenvolvimento para apresentação de projetos acadêmicos
