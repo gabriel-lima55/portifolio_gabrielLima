@@ -36,4 +36,3 @@ Projeto acadêmico desenvolvido como MVP completo.
 ```bash
 npm install
 npm run dev
-
