@@ -1,0 +1,23 @@
+:root {
+
+  /* Cores */
+  --color-bg: #fafafa;
+  --color-text: #222;
+  --color-card: #ffffff;
+  --color-accent: #2563eb;
+
+  /* Tipografia */
+  --font-main: "Inter", sans-serif;
+
+  --title-xl: 56px;
+  --title-lg: 36px;
+  --title-md: 24px;
+  --text-base: 18px;
+
+  /* Espaçamento */
+  --section-padding: 80px;
+  --card-padding: 28px;
+
+  /* Layout */
+  --container-width: 900px;
+}

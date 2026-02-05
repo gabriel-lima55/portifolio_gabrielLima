@@ -2,7 +2,9 @@ export default function Header() {
   return (
     <section>
       <h1>Gabriel Lima</h1>
-      <p>Estudante de Engenharia de Produção | Tecnologia e Processos</p>
+      <p>Gabriel Lima | Sobre | Projetos | Experiência | Contato
+      </p>
     </section>
   );
 }
+

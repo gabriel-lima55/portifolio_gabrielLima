@@ -1,22 +1,27 @@
-import Header from "./components/Header";
-import About from "./components/About";
-import Education from "./components/Education";
-import Projects from "./components/Projects";
-import Experience from "./components/Experience";
-import Skills from "./components/Skills";
-import Footer from "./components/Footer";
+import Header from "./components/Header"
+import Hero from "./components/Hero"
+import About from "./components/About"
+import Projects from "./components/Projects"
+import Experience from "./components/Experience"
+import Education from "./components/Education"
+import Skills from "./components/Skills"
+import Contact from "./components/Contact"
+import Footer from "./components/Footer"
 
-export default function App() {
+function App() {
   return (
-    <main>
+    <>
       <Header />
+      <Hero />
       <About />
-      <Education />
       <Projects />
       <Experience />
+      <Education />
       <Skills />
+      <Contact />
       <Footer />
-    </main>
-  );
+    </>
+  )
 }
 
+export default App
