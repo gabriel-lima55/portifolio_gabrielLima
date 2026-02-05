@@ -1,11 +1,9 @@
 function Hero() {
   return (
-    <section className="container">
-      <br />
-      <p>Estudante de Engenharia de Produção | Desenvolvedor Web em formação</p>
-      <br />
-      <p>Com formação tecnológica pelo IFRN e experiência profissional na área administrativa, busco aplicar soluções tecnológicas para otimização de processos, integração de sistemas e organização de dados.</p>
-      <br />
+    <section className="section">
+      <h1>Gabriel Lima</h1>
+      <h2 className="section-title">Desenvolvedor Web focado em integração de sistemas e automação de processos.</h2>
+      <p className="section-text">Unindo Engenharia de Produção e tecnologia para criar soluções organizacionais e orientadas a dados.</p>
     </section>
   );
 }

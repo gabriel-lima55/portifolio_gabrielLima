@@ -1,6 +1,7 @@
 export default function Projects() {
   return (
-    <section>
+    <section className="section">
+
       <div className="container">
       <h2>Projetos</h2>
 

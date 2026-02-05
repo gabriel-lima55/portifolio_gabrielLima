@@ -1,7 +1,8 @@
 function Contact() {
   return (
-    <section className="contact">
-      <h2>Contato</h2>
+    <section className="section">
+
+      <h2 className="section-title">Contato</h2>
 
       <p>Email: <a href="#">gabrielacademico@email.com</a></p>
 

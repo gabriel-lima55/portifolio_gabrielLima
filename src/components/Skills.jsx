@@ -1,6 +1,7 @@
 export default function Skills() {
   return (
-    <section>
+    <section className="section">
+
       <h2>Habilidades</h2>
 
       <h4>Tecnologias</h4>
