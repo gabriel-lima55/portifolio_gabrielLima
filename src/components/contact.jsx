@@ -3,7 +3,7 @@ function Contact() {
     <section className="contact">
       <h2>Contato</h2>
 
-      <p>Email: <a href="gabriel.academico55@gmail.com">gabrielacademico@email.com</a></p>
+      <p>Email: <a href="#">gabrielacademico@email.com</a></p>
 
       <p>
         LinkedIn: <a href="https://www.linkedin.com/in/gabriel-lima-80">linkedin.com/in/gabriel-lima-80</a>
