@@ -2,13 +2,12 @@ export default function Header() {
   return (
     <header className="header">
       <div className="header-container">
-        <h1>Gabriel Lima</h1>
-
         <nav>
-          <a href="#sobre">Sobre</a>
-          <a href="#projetos">Projetos</a>
-          <a href="#experiencia">Experiência</a>
-          <a href="#contato">Contato</a>
+          <a href="home">Gabriel Lima</a>
+          <a href="#about">Sobre</a>
+          <a href="#projects">Projetos</a>
+          <a href="#experience">Experiência</a>
+          <a href="#contact">Contato</a>
         </nav>
       </div>
     </header>
