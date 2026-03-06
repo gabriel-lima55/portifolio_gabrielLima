@@ -49,7 +49,7 @@ export default function Projects() {
           <p>JavaScript | Node.js | React | API REST | SQL | JSON Web Token | Postman</p>
 
           <p>
-            <a href="LINK_GITHUB_TCC" target="_blank">Ver Código</a>
+            Código não publicado
           </p>
         </div>
 
